@@ -9,6 +9,9 @@ Video hosting and marketing made easy for creators and brands. Vadoo Lifetime de
 ### [UUKI](https://www.uuki.live/lifetimedeal-pricing)
 All-in-one community platform for creators and brands. UUKI lifetime deal at 50% off on recurring plan -"BLACKFRIDAY30" to get 30% off
 
+### [HammerAI](https://www.hammerai.com/)
+Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models.50% OFF with code -"BZAOH18"
+
 [Tribe alternative](https://www.uuki.live/tribe-alternative)
 
 ### Yay commerce
